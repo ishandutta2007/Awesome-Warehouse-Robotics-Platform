@@ -1,6 +1,6 @@
 # Awesome-Warehouse-Robotics-Platform
 
-# Top Warehouse Robotics Platform Tools Ecosystem
+## Top Warehouse Robotics Platform Tools Ecosystem
 **Curated List of SaaS Products & Open-Source GitHub Projects**
 *Focused on AMR/AGV Fleet Management, Warehouse Automation, Orchestration, AS/RS Integration & Multi-Robot Coordination*
 **Last updated: August 2026**
