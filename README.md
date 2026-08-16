@@ -20,32 +20,24 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - [Disclaimer](#disclaimer)
 
 ## SaaS/Hosted Platforms
-- **[SVT Robotics](https://www.svtrobotics.com/)**  
-  Softbot platform focused on rapid integration and orchestration of heterogeneous warehouse robots and automation equipment without heavy custom engineering.
-- **[Formic](https://www.formic.co/)**  
-  Robotics-as-a-Service model that deploys and operates warehouse automation (including AMRs) with outcome-based pricing.
-- **[Locus Robotics](https://locusrobotics.com/)**  
-  Leading AMR platform for person-to-goods fulfillment, known for collaborative robots and warehouse execution software.
-- **[6 River Systems](https://6river.com/)** (Shopify)  
-  Collaborative mobile robot (Chuck) platform and warehouse orchestration software for fulfillment centers.
-- **[GreyOrange](https://www.greyorange.com/)**  
-  AI-driven fulfillment and warehouse robotics platform combining Ranger robots with GreyMatter orchestration software.
-- **[Geek+](https://www.geekplus.com/)**  
-  Broad portfolio of warehouse robots (picking, sorting, moving) and intelligent warehouse management software.
-- **[Fetch Robotics](https://fetchrobotics.com/)** (Zebra Technologies)  
-  AMR platform for material transport and warehouse workflows, integrated into broader Zebra automation offerings.
-- **[Exotec](https://www.exotec.com/)**  
-  Skypod goods-to-person system and warehouse robotics platform focused on high-density storage and rapid picking.
-- **[Vecna Robotics](https://www.vecnarobotics.com/)**  
-  Autonomous mobile robots and orchestration software for warehouse and manufacturing material movement.
-- **[InOrbit](https://www.inorbit.ai/)**  
-  Robot operations platform (cloud robotics) for monitoring, managing, and integrating robot fleets across vendors.
-- **[AutoStore](https://www.autostoresystem.com/)**  
-  Cube-based automated storage and retrieval system (AS/RS) with robots that work on top of the grid.
-- **[Symbotic](https://www.symbotic.com/)**  
-  AI-powered warehouse automation and robotics systems for high-volume distribution centers.
-- **[Quicktron](https://www.quicktron.com/)**, **[Attabotics](https://www.attabotics.com/)**, **[Swisslog SynQ](https://www.swisslog.com/)**  
-  Additional major players in AMR, 3D storage, and warehouse execution/robotics software.
+
+| Platform | Description | Pricing | Free Tier / Trial Limit |
+|----------|-------------|---------|-------------------------|
+| **[SVT Robotics](https://www.svtrobotics.com/)** | Softbot platform focused on rapid integration and orchestration of heterogeneous warehouse robots and automation equipment without heavy custom engineering. | Starting from ~$50,000+ per integration | 0 Days trial, 0 Limit |
+| **[Formic](https://www.formic.co/)** | Robotics-as-a-Service model that deploys and operates warehouse automation (including AMRs) with outcome-based pricing. | Starting at $4,750/month (Palletizer RaaS) | 90 Days Trial, 1 Palletizer System Limit |
+| **[Locus Robotics](https://locusrobotics.com/)** | Leading AMR platform for person-to-goods fulfillment, known for collaborative robots and warehouse execution software. | Starting at ~$3,000/month per robot (RaaS) | 0 Days trial, 0 Limit |
+| **[6 River Systems](https://6river.com/)** (Shopify) | Collaborative mobile robot (Chuck) platform and warehouse orchestration software for fulfillment centers. | Starting at ~$2,500/month per robot (RaaS) | 30 Days Pilot Trial, Limit Negotiable |
+| **[GreyOrange](https://www.greyorange.com/)** | AI-driven fulfillment and warehouse robotics platform combining Ranger robots with GreyMatter orchestration software. | Starting at ~$3,500/month per robot | 0 Days trial, 0 Limit |
+| **[Geek+](https://www.geekplus.com/)** | Broad portfolio of warehouse robots (picking, sorting, moving) and intelligent warehouse management software. | Starting at $15,000 per individual robot unit | 0 Days trial, 0 Limit |
+| **[Fetch Robotics](https://fetchrobotics.com/)** (Zebra) | AMR platform for material transport and warehouse workflows, integrated into broader Zebra automation offerings. | Starting at ~$2,000/month per robot (RaaS) | 0 Days trial, 0 Limit |
+| **[Exotec](https://www.exotec.com/)** | Skypod goods-to-person system and warehouse robotics platform focused on high-density storage and rapid picking. | Starting from ~$1,000,000+ system CapEx | 0 Days trial, 0 Limit |
+| **[Vecna Robotics](https://www.vecnarobotics.com/)** | Autonomous mobile robots and orchestration software for warehouse and manufacturing material movement. | Starting at $10/hour per robot target (RaaS) | 0 Days trial, 0 Limit |
+| **[InOrbit](https://www.inorbit.ai/)** | Robot operations platform (cloud robotics) for monitoring, managing, and integrating robot fleets across vendors. | Free / Starting at ~$49/month for paid tiers | Forever Free, Unlimited Robots Limit |
+| **[AutoStore](https://www.autostoresystem.com/)** | Cube-based automated storage and retrieval system (AS/RS) with robots that work on top of the grid. | Starting from ~$500,000+ total system cost | 0 Days trial, 0 Limit |
+| **[Symbotic](https://www.symbotic.com/)** | AI-powered warehouse automation and robotics systems for high-volume distribution centers. | Starting from ~$20,000,000+ per facility | 0 Days trial, 0 Limit |
+| **[Quicktron](https://www.quicktron.com/)** | Major player in AMR, 3D storage, and warehouse execution/robotics software. | Starting at $15,000 per individual robot | 0 Days trial, 0 Limit |
+| **[Attabotics](https://www.attabotics.com/)** | 3D robotic storage and retrieval system for e-commerce and retail. | Starting from ~$1,000,000+ system CapEx | 0 Days trial, 0 Limit |
+| **[Swisslog SynQ](https://www.swisslog.com/)** | Warehouse execution/robotics software and modular intralogistics platform. | Starting from ~$100,000+ per deployment | 0 Days trial, 0 Limit |
 
 ## Open-Source GitHub Projects
 - **[Open-RMF](https://github.com/open-rmf)** (Robotics Middleware Framework)  
